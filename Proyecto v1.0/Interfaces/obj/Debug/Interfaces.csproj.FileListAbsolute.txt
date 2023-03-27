@@ -1,0 +1,12 @@
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\bin\Debug\Interfaces.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\bin\Debug\Interfaces.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Interfaces\obj\Debug\Interfaces.pdb

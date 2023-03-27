@@ -1,0 +1,186 @@
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+E:\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+E:\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+E:\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+E:\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+E:\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+E:\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+E:\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+E:\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+E:\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+E:\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+E:\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+E:\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+E:\Proyecto v1.0\BLL\obj\Debug\BLL.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\BLL.dll
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\BLL.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\DATOS.dll
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.dll
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\MAPPERS.dll
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\Servicios.dll
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\ENTIDADES.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\DATOS.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\DATOS.dll.config
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\MAPPERS.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\bin\Debug\Servicios.pdb
+E:\ENTREGA\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\ENTREGA\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ENTREGA\Proyecto v1.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\ENTREGA\Proyecto v1.0\BLL\obj\Debug\BLL.dll
+E:\ENTREGA\Proyecto v1.0\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Producto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id_Producto>21</id_Producto>
+  <Nombre>Tornillo</Nombre>
+  <Marca>DS</Marca>
+  <Cantidad>50</Cantidad>
+  <PrecioUnitario>10</PrecioUnitario>
+  <Descripcion>Es un Tornillo</Descripcion>
+  <PrecioMinimo>50</PrecioMinimo>
+  <PrecioOptimo>150</PrecioOptimo>
+  <Estado>1</Estado>
+</Producto>

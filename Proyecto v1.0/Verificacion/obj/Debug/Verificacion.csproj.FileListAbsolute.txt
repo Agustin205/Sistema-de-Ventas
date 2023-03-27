@@ -1,0 +1,48 @@
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+E:\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+E:\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+E:\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+E:\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+E:\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+E:\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+E:\ENTREGA\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.dll
+E:\ENTREGA\Proyecto v1.0\Verificacion\bin\Debug\Verificacion.pdb
+E:\ENTREGA\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.AssemblyReference.cache
+E:\ENTREGA\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.csproj.CoreCompileInputs.cache
+E:\ENTREGA\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.dll
+E:\ENTREGA\Proyecto v1.0\Verificacion\obj\Debug\Verificacion.pdb

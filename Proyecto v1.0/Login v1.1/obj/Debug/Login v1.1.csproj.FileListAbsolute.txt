@@ -1,0 +1,554 @@
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.SuggestedBindingRedirects.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Form1.resources
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\agust\Downloads\Login\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\CAMPOREAL\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\agust\Downloads\ImageSea - TC1 - Entrega 1 - Agustin Garcia\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+C:\Users\Javier\Desktop\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe.config
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.exe
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Login v1.1.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaEspañol.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.IdiomaIngles.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.exe
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Permisos.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Permisos.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlBotones.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlLabel.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BitacoraB.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Productos.resources
+E:\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BitacoraB.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Productos.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Permisos.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.PreguntaRol.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlBotones.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlLabel.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.ProductosVendidos.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\EnvDTE.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\stdole.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.NotaDePedido.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe.config
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.exe
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe.config
+E:\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe
+E:\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.pdb
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\EnvDTE.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\stdole.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.MSXML.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.NotaDePedido.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.ProductosVendidos.resources
+E:\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.cache
+E:\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.compiled
+E:\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.exe
+E:\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.pdb
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.FormIdioma.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Mayoristas.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Ventas.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Facturas.resources
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.cache
+C:\Users\Javier\Desktop\R-Solutions\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.compiled
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe.config
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.exe
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\R-Solutions.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\BLL.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\EnvDTE.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\stdole.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Microsoft.MSXML.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ENTIDADES.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\BLL.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Servicios.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\Verificacion.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\MAPPERS.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.pdb
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\DATOS.dll.config
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.AssemblyReference.cache
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BackUp.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Bitacora.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.BitacoraB.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.CambiarContraseña.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Facturas.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.FormIdioma.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Mayoristas.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.NotaDePedido.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Productos.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Permisos.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.LoginUser.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.MainMenu.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.ProductosVendidos.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Properties.Resources.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.RegistrarUser.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlBotones.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.UserControlLabel.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login_v1._1.Ventas.resources
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.GenerateResource.cache
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.cache
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\RdlCompile.compiled
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CoreCompileInputs.cache
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\Login v1.1.csproj.CopyComplete
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.exe
+E:\ENTREGA\Proyecto v1.0\Login v1.1\obj\Debug\R-Solutions.pdb

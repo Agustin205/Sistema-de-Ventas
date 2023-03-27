@@ -1,0 +1,65 @@
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\bin\Debug\ENTIDADES.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\bin\Debug\ENTIDADES.pdb
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\obj\Debug\ENTIDADES.dll
+D:\UAI\Tercer Año\PRIMER CUATRIMESTRE\T1-09-26 TRABAJO DE CAMPO I\PROYECTO\Programa\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\Login\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\Login\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\Login\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\Login\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Login\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\Login\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\Login\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\Login\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\Login\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\agust\Downloads\Login\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\agust\Downloads\Login\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\agust\Downloads\Login\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\agust\Downloads\Login\ENTIDADES\bin\Debug\Interfaces.dll
+C:\Users\agust\Downloads\Login\ENTIDADES\bin\Debug\Interfaces.pdb
+C:\Users\agust\Downloads\Login\ENTIDADES\obj\Debug\ENTIDADES.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.pdb
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CopyComplete
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\CAMPO\Campo Posta\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.pdb
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CopyComplete
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\agust\OneDrive\Desktop\proyectos guia\Usuw\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\bin\Debug\Interfaces.pdb
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.csproj.CopyComplete
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\FINAL\R-SolutionsV1.0 - TC1 - Entrega 1 - Agustin Fernández de la Sota\Proyecto1.0 NASHE - Copy\Proyecto1.0 NASHE - Copy\Proyecto1.0 ASHE\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\bin\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\bin\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\obj\Debug\ENTIDADES.dll
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\obj\Debug\ENTIDADES.pdb
+E:\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+E:\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\ENTIDADES\obj\Debug\ENTIDADES.pdb
+C:\Users\Javier\Desktop\R-Solutions\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+E:\ENTREGA\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\ENTREGA\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\ENTREGA\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+E:\ENTREGA\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+E:\ENTREGA\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\ENTREGA\ENTIDADES\obj\Debug\ENTIDADES.pdb
